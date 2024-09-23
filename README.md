@@ -1,5 +1,10 @@
 # Bookmarks  
+## The Brick Household
 
+*   [Household meeting notes](https://docs.google.com/document/d/1xl-OoeZ9tkZDXEl2tqhDykMXEfa3EOIte3k50NJf9IE/edit#heading=h.vowkzz4jzdye)
+*   [Household shared expenses](https://docs.google.com/spreadsheets/d/1zw6GcuN_Lzdv55nc0e4NVjscg9_xILRDrEMvGTjWzwQ/edit?gid=0#gid=0)
+*   [Inspector's report](https://docs.google.com/document/d/1w9Fw_UVCCtQZ5N-Kyzl7HgHX1VN5yPQQ7qPBVcTNmu8/edit)
+  
 ## Greek Resources 
 
 *   [Introduction to Greek - Google Play Books](https://play.google.com/books/reader?id=D3P6DwAAQBAJ)
@@ -26,11 +31,7 @@
 *   [Song Tracking Table](https://cincysacredharp.ej345.com/Bealle_SacredHarpPageTrackingTable.pdf)
 *   [Meters](https://docs.google.com/spreadsheets/d/1PEqQPNApd-T1VAlxnMfkxL_cE1FUlOX0nV5MNbJIxUU/edit?gid=437954096#gid=437954096)
 
-## The Brick Household
 
-*   [Household meeting notes](https://docs.google.com/document/d/1xl-OoeZ9tkZDXEl2tqhDykMXEfa3EOIte3k50NJf9IE/edit#heading=h.vowkzz4jzdye)
-*   [Household shared expenses](https://docs.google.com/spreadsheets/d/1zw6GcuN_Lzdv55nc0e4NVjscg9_xILRDrEMvGTjWzwQ/edit?gid=0#gid=0)
-*   [Inspector's report](https://docs.google.com/document/d/1w9Fw_UVCCtQZ5N-Kyzl7HgHX1VN5yPQQ7qPBVcTNmu8/edit)
 
 ## WMU
 
