@@ -41,7 +41,6 @@
 
 *   [DiskStation Homepage](http://192.168.7.125)
 *   [Google Translate](https://translate.google.com/)
-*   [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 *   [Online Sort, Reformat or Clean Your List](https://www.online-utility.org/text/sort.jsp)
 *   [NeverSSL - helping you get online](http://neverssl.com/)
 *   [WMU Databases (including OED)](https://libguides.wmich.edu/az/databases)
