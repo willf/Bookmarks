@@ -36,6 +36,8 @@
 
 *   [WMU Login](https://wexchange.wmich.edu/)
 *   [WMU Mail](https://outlook.office.com/mail/sentitems/id/AAQkADIzMTVlZDVkLWZiNDQtNGQxMy05MzhkLWU2MTA5MmM1ZjRhYwAQABM3G6bOKnhOvBaHfQfL4Oc%3D)
+*   [WMU Databases (including OED)](https://libguides.wmich.edu/az/databases)
+
 
 ## Everything Else
 
@@ -43,4 +45,3 @@
 *   [Google Translate](https://translate.google.com/)
 *   [Online Sort, Reformat or Clean Your List](https://www.online-utility.org/text/sort.jsp)
 *   [NeverSSL - helping you get online](http://neverssl.com/)
-*   [WMU Databases (including OED)](https://libguides.wmich.edu/az/databases)
