@@ -2,7 +2,7 @@
 ## The Brick Household
 
 *   [Household meeting notes](https://docs.google.com/document/d/1xl-OoeZ9tkZDXEl2tqhDykMXEfa3EOIte3k50NJf9IE/edit#heading=h.vowkzz4jzdye)
-*   [Household shared expenses](https://docs.google.com/spreadsheets/d/1zw6GcuN_Lzdv55nc0e4NVjscg9_xILRDrEMvGTjWzwQ/edit?gid=0#gid=0)
+*   [Household shared expenses](https://docs.google.com/spreadsheets/d/16Vjy-fI4ZMUIF_iJ4kBtZN_vX8eSxSG7RNDNqH2ZTwk/edit?gid=0#gid=0)
 *   [Inspector's report](https://docs.google.com/document/d/1w9Fw_UVCCtQZ5N-Kyzl7HgHX1VN5yPQQ7qPBVcTNmu8/edit)
   
 ## Greek Resources 
