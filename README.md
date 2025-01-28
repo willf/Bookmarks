@@ -7,17 +7,11 @@
 *   [Household monthly expenses](https://docs.google.com/spreadsheets/d/1z9h6R0-Da4j3mih6pNUMmWx9Kq6vcoS5dXmQJ_glqLA/edit?usp=sharing)
 *   [Inspector's report](https://docs.google.com/document/d/1w9Fw_UVCCtQZ5N-Kyzl7HgHX1VN5yPQQ7qPBVcTNmu8/edit)
   
-## Greek Resources 
+## EDGI Work
 
-*   [Introduction to Greek - Google Play Books](https://play.google.com/books/reader?id=D3P6DwAAQBAJ)
-*   [My Greek Repo](https://github.com/willf/shelmerdine-greek); [Vocab](https://github.com/willf/shelmerdine-greek/blob/main/vocabulary/vocabulary.md)
-*   [Greek Typing Practice](https://greektyping.com/); [**Keyboard**](https://gist.github.com/willf/1412d9fe5f566866ed5707b3dbf7c726); [Chapters](https://gist.github.com/willf/f4fc63aed08b6e822cc21e2aff3ef533)
-*   [Attic Greek Paradigms](http://atticgreek.org/paradigms/paradigmsNouns.html)
-*   [Moss Greek](https://www.latinperdiem.com/the-moss-method-for-greek-2/)
-*   [Dickinson Greek Core List](https://dcc.dickinson.edu/greek-core-list)
-*   [WMU Herculaneum Project Google Drive](https://drive.google.com/drive/u/0/folders/0APQYYbSaJuE_Uk9PVA)
-*   [WMU Herculaneum Project GitHub Org](https://github.com/WMU-Herculaneum-Project)
-
+*   [EDGI Priority List](https://docs.google.com/spreadsheets/d/1HpKVALCs6DrGyv0l6k8HLgK0uvflYKCQc_cHOWpkrBs/edit?gid=0#gid=0)
+*   [Federal Environmental Database List](https://docs.google.com/spreadsheets/d/1ZHUKy0fmG6AfOYmRFrdAfXsvHWtQojrjwMHU1va7k_A/edit?gid=0#gid=0)
+    
 ## Sacred Harp Text Preparation
 
 *   [Planning Spreadsheet](https://docs.google.com/spreadsheets/d/1CWdE1qdWaFC9sLVWaUvBrypapqAq656mwIsOhOgdHDA/edit#gid=127818214)
@@ -34,6 +28,16 @@
 *   [Meters](https://docs.google.com/spreadsheets/d/1PEqQPNApd-T1VAlxnMfkxL_cE1FUlOX0nV5MNbJIxUU/edit?gid=437954096#gid=437954096)
 *   [Top Matter](https://docs.google.com/spreadsheets/d/1_zfAuGY2jRaMce6zfRZshBXFx8CS250NPraKNYo8ols)
 
+## Greek Resources 
+
+*   [Introduction to Greek - Google Play Books](https://play.google.com/books/reader?id=D3P6DwAAQBAJ)
+*   [My Greek Repo](https://github.com/willf/shelmerdine-greek); [Vocab](https://github.com/willf/shelmerdine-greek/blob/main/vocabulary/vocabulary.md)
+*   [Greek Typing Practice](https://greektyping.com/); [**Keyboard**](https://gist.github.com/willf/1412d9fe5f566866ed5707b3dbf7c726); [Chapters](https://gist.github.com/willf/f4fc63aed08b6e822cc21e2aff3ef533)
+*   [Attic Greek Paradigms](http://atticgreek.org/paradigms/paradigmsNouns.html)
+*   [Moss Greek](https://www.latinperdiem.com/the-moss-method-for-greek-2/)
+*   [Dickinson Greek Core List](https://dcc.dickinson.edu/greek-core-list)
+*   [WMU Herculaneum Project Google Drive](https://drive.google.com/drive/u/0/folders/0APQYYbSaJuE_Uk9PVA)
+*   [WMU Herculaneum Project GitHub Org](https://github.com/WMU-Herculaneum-Project)
 
 
 ## WMU
