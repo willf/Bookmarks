@@ -10,7 +10,7 @@
 ## EDGI Work
 
 *   [EDGI Priority List](https://docs.google.com/spreadsheets/d/1HpKVALCs6DrGyv0l6k8HLgK0uvflYKCQc_cHOWpkrBs/edit?gid=0#gid=0)
-*   [Federal Environmental Database List](https://docs.google.com/spreadsheets/d/1ZHUKy0fmG6AfOYmRFrdAfXsvHWtQojrjwMHU1va7k_A/edit?gid=0#gid=0)
+*   [Federal Environmental Database List](https://docs.google.com/spreadsheets/d/1ZHUKy0fmG6AfOYmRFrdAfXsvHWtQojrjwMHU1va7k_A/edit?gid=1202364901#gid=1202364901)
     
 ## Sacred Harp Text Preparation
 
