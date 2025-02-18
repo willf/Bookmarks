@@ -27,6 +27,7 @@
 *   [Song Tracking Table](https://cincysacredharp.ej345.com/Bealle_SacredHarpPageTrackingTable.pdf)
 *   [Meters](https://docs.google.com/spreadsheets/d/1PEqQPNApd-T1VAlxnMfkxL_cE1FUlOX0nV5MNbJIxUU/edit?gid=437954096#gid=437954096)
 *   [Top Matter](https://docs.google.com/spreadsheets/d/1_zfAuGY2jRaMce6zfRZshBXFx8CS250NPraKNYo8ols)
+*   [First Line Index](https://docs.google.com/spreadsheets/d/1tO5co2r-AAIW2KudCDXvGOzIe1pRCvRiXBfnwCsMW54/edit?gid=159786187#gid=159786187)
 
 ## Greek Resources 
 
