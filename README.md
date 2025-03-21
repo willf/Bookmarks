@@ -15,6 +15,7 @@
 ## Sacred Harp Text Preparation
 
 *   [Planning Spreadsheet](https://docs.google.com/spreadsheets/d/1CWdE1qdWaFC9sLVWaUvBrypapqAq656mwIsOhOgdHDA/edit#gid=127818214)
+*   [Proofreading](https://drive.google.com/drive/folders/1N03g4GsB_Q-Wtx9vo-RDNFt-E8dvrM5n)
 *   [Tools and Processes](https://docs.google.com/document/d/1lBohw_ciokF4Bp2qek-TqI05ku4Ls6gGWYwSXc4RhZQ/edit)
 *   [Style Guide](https://docs.google.com/document/d/128yzgPJMnWu2x6N1lC7zBThthuxYw_hOg81OiFViPps/edit)
 *   [GitHub Repo for Text](https://github.com/willf/202x-Edition-Sacred-Harp-Text)
