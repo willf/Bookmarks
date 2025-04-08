@@ -36,7 +36,7 @@
 *   [My Greek Repo](https://github.com/willf/shelmerdine-greek); [Vocab](https://github.com/willf/shelmerdine-greek/blob/main/vocabulary/vocabulary.md)
 *   [Greek Typing Practice](https://greektyping.com/); [**Keyboard**](https://gist.github.com/willf/1412d9fe5f566866ed5707b3dbf7c726); [Chapters](https://gist.github.com/willf/f4fc63aed08b6e822cc21e2aff3ef533)
 *   [Attic Greek Paradigms](http://atticgreek.org/paradigms/paradigmsNouns.html)
-*   [Moss Greek](https://www.latinperdiem.com/the-moss-method-for-greek-2/)
+*   [Moss Greek](https://latinperdiem.com/the-moss-method-for-greek-2/)
 *   [Dickinson Greek Core List](https://dcc.dickinson.edu/greek-core-list)
 *   [WMU Herculaneum Project Google Drive](https://drive.google.com/drive/u/0/folders/0APQYYbSaJuE_Uk9PVA)
 *   [WMU Herculaneum Project GitHub Org](https://github.com/WMU-Herculaneum-Project)
