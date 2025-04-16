@@ -54,6 +54,6 @@
 *   [Google Drive](https://drive.google.com/drive/u/0/home)
 *   [DiskStation Homepage](http://192.168.7.125)
 *   [Google Translate](https://translate.google.com/)
-*   [Fasola Discussions](http://ej345.com/fasola/Fasola-Discussions-FAQ.html)
+*   [Fasola Discussions](https://groups.google.com/g/fasola-discussions)
 *   [NeverSSL - helping you get online](http://neverssl.com/)
 *   [Trinity Refugee Sheet](https://docs.google.com/spreadsheets/d/10KV7Iy2JXz64pBaCAJwLaui8QG1NodXOn4Bci0eBhBE/edit?gid=0#gid=0)
