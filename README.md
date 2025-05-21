@@ -7,10 +7,12 @@
 *   [Household monthly expenses](https://docs.google.com/spreadsheets/d/1z9h6R0-Da4j3mih6pNUMmWx9Kq6vcoS5dXmQJ_glqLA/edit?usp=sharing)
 *   [Inspector's report](https://docs.google.com/document/d/1w9Fw_UVCCtQZ5N-Kyzl7HgHX1VN5yPQQ7qPBVcTNmu8/edit)
   
-## EDGI Work
+## Early Music Michigan
 
-*   [EDGI Priority List](https://docs.google.com/spreadsheets/d/1HpKVALCs6DrGyv0l6k8HLgK0uvflYKCQc_cHOWpkrBs/edit?gid=0#gid=0)
-*   [Federal Environmental Database List](https://docs.google.com/spreadsheets/d/1ZHUKy0fmG6AfOYmRFrdAfXsvHWtQojrjwMHU1va7k_A/edit?gid=1202364901#gid=1202364901)
+* [Quickbooks Login](https://accounts.intuit.com/app/sign-in?app_group=QBO&asset_alias=Intuit.accounting.core.qbowebapp&app_environment=prod&origin-server=bff)
+* [Fifth Third Login](https://www.53.com/content/fifth-third/en.html)
+* [PayPal Login](https://www.paypal.com/signin)
+* [Early Music Michigan](https://earlymusicmichigan.org/)
     
 ## Sacred Harp Text Preparation
 
