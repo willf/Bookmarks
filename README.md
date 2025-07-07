@@ -52,6 +52,10 @@
 *   [WMU Mail](https://outlook.office.com/mail/sentitems/id/AAQkADIzMTVlZDVkLWZiNDQtNGQxMy05MzhkLWU2MTA5MmM1ZjRhYwAQABM3G6bOKnhOvBaHfQfL4Oc%3D)
 *   [WMU Databases (including OED)](https://libguides.wmich.edu/az/databases)
 
+## Wattsania
+
+* [Watts worship paper drive](https://drive.google.com/drive/folders/1U_LY-W7EdkAx4w_9TQ4GpItTHzAhj8cb)
+
 
 ## Everything Else
 
