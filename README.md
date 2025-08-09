@@ -59,7 +59,7 @@
 
 ## Everything Else
 
-*   [Google Drive](https://drive.google.com/drive/u/0/home)
+*   [Google Drive](https://drive.google.com/drive/u/0/home) [Sheets](https://docs.google.com/spreadsheets/u/0/) [Docs](https://docs.google.com/)
 *   [DiskStation Homepage](http://192.168.7.125)
 *   [Google Translate](https://translate.google.com/)
 *   [Fasola Discussions](https://groups.google.com/g/fasola-discussions)
