@@ -25,8 +25,7 @@
 *   [Book Scans](https://drive.google.com/drive/folders/1mA2HRgkEM1R1FZCf-fGBxTO2nNrg3uvB)
 *   [Text Change Recommendations](https://docs.google.com/spreadsheets/d/1GfTBXm4jjJfRZWPjgPTTG7-DyTnolaCeHh1Xo4qjor8/edit#gid=0)
 *   [Text Preparer Checklist](https://docs.google.com/document/d/1msD6nCAbmoDxcGknVxmzD4ZgypKeuQ8dVp5hC5saFRE/edit#heading=h.nkdv0ird1orf)
-*   [Sacred Harp Historical Index](https://docs.google.com/spreadsheets/d/11d9TEejzBFQ5meGaXzoZGxIbrfLNTofm1AxKgMhvvvA/edit?gid=0#gid=0)
-*   [Song Tracking Table](https://cincysacredharp.ej345.com/Bealle_SacredHarpPageTrackingTable.pdf)
+*   [Song Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1jVk8zV98x5L8PRa8jPLofANiWbdn7diBybqN5d5m2xc/edit?gid=1233952526#gid=1233952526)
 *   [Meters](https://docs.google.com/spreadsheets/d/1PEqQPNApd-T1VAlxnMfkxL_cE1FUlOX0nV5MNbJIxUU/edit?gid=437954096#gid=437954096)
 *   [Top Matter](https://docs.google.com/spreadsheets/d/1_zfAuGY2jRaMce6zfRZshBXFx8CS250NPraKNYo8ols)
 *   [First Line Index](https://docs.google.com/spreadsheets/d/1tO5co2r-AAIW2KudCDXvGOzIe1pRCvRiXBfnwCsMW54/edit?gid=159786187#gid=159786187)
@@ -51,9 +50,10 @@
 *   [WMU Mail](https://outlook.office.com/mail/sentitems/id/AAQkADIzMTVlZDVkLWZiNDQtNGQxMy05MzhkLWU2MTA5MmM1ZjRhYwAQABM3G6bOKnhOvBaHfQfL4Oc%3D)
 *   [WMU Databases (including OED)](https://libguides.wmich.edu/az/databases)
 
-## Wattsania
+## Other projects
 
 * [Watts worship paper drive](https://drive.google.com/drive/folders/1U_LY-W7EdkAx4w_9TQ4GpItTHzAhj8cb)
+* [Spirituality and computation](https://drive.google.com/drive/folders/13lQTOeuNYMB9l4QpK57jVqSVMllq7rib)
 
 
 ## Everything Else
