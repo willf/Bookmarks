@@ -42,7 +42,7 @@
 *   [WMU Herculaneum Project GitHub Org](https://github.com/WMU-Herculaneum-Project)
 *   [Opera Graeca Adnotata](https://varro.informatik.uni-leipzig.de/oga/en/)
 *   [OGA at Zenodo](https://zenodo.org/records/14206061)
-*   
+*   [Interlinear Greek New Testament](https://biblehub.com/interlinear/john/1.htm)
 
 
 ## WMU
