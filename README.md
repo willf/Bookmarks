@@ -30,6 +30,7 @@
 *   [Top Matter](https://docs.google.com/spreadsheets/d/1_zfAuGY2jRaMce6zfRZshBXFx8CS250NPraKNYo8ols)
 *   [First Line Index](https://docs.google.com/spreadsheets/d/1tO5co2r-AAIW2KudCDXvGOzIe1pRCvRiXBfnwCsMW54/edit?gid=159786187#gid=159786187)
 *   [Micah's Complete Song Tracker](https://docs.google.com/spreadsheets/d/1cLb7dxYF4W4dXWhqxvQkQVpRbS_HwHbNICAlBBb6knk/edit?gid=0#gid=0)
+*   [Change Tracker for Upcoming Printigns](https://docs.google.com/spreadsheets/d/1aFKSGhkR6CzWwkQbQM56jkymezgpLLLHQgyInUyubKg/edit?gid=0#gid=0)
 
 ## Greek Resources 
 
