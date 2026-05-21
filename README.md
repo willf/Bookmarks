@@ -44,6 +44,7 @@
 *   [Opera Graeca Adnotata](https://varro.informatik.uni-leipzig.de/oga/en/)
 *   [OGA at Zenodo](https://zenodo.org/records/14206061)
 *   [Interlinear Greek New Testament](https://biblehub.com/interlinear/john/1.htm)
+*   [Patristics Text Archive | PTA](https://pta.bbaw.de/en/)
 
 
 ## WMU
