@@ -45,6 +45,10 @@
 *   [OGA at Zenodo](https://zenodo.org/records/14206061)
 *   [Interlinear Greek New Testament](https://biblehub.com/interlinear/john/1.htm)
 *   [Patristics Text Archive](https://pta.bbaw.de/en/)
+*   [Logeion](https://logeion.uchicago.edu/λόγος)
+*   [Wiktionary](https://en.wiktionary.org/wiki/λόγος)
+*   [Morpho](https://logeion.uchicago.edu/morpho/πατράσι)
+*   [Perseus](https://www.perseus.tufts.edu)
 
 
 ## WMU
