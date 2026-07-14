@@ -76,4 +76,5 @@
 *   [Fasola Discussions](https://groups.google.com/g/fasola-discussions)
 *   [NeverSSL - helping you get online](http://neverssl.com/)
 *   [TMUX cheatsheet](https://willf.github.io/snippets/tmux_cheatsheet.html)
+*   [2025 Minutes Template - Make a copy](https://docs.google.com/spreadsheets/d/1cmzOl-ds5CS0I0MwXAwrnqkasOabM9fJOC_jrNIBnC8/copy)
 
