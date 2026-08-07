@@ -19,7 +19,8 @@
 *   [Proofreading](https://drive.google.com/drive/folders/1N03g4GsB_Q-Wtx9vo-RDNFt-E8dvrM5n)
 *   [Tools and Processes](https://docs.google.com/document/d/1lBohw_ciokF4Bp2qek-TqI05ku4Ls6gGWYwSXc4RhZQ/edit)
 *   [Style Guide](https://docs.google.com/document/d/128yzgPJMnWu2x6N1lC7zBThthuxYw_hOg81OiFViPps/edit)
-*   [GitHub Repo for Text](https://github.com/willf/202x-Edition-Sacred-Harp-Text)
+*   [GitHub Repo for Text (Public)][https://github.com/Sacred-Harp-Publishing-Company/2025-edition]
+*   [GitHub Repo for Text (Working)](https://github.com/willf/202x-Edition-Sacred-Harp-Text)
 *   [GitHub Repo for Hyphenation](https://github.com/willf/sacred_harp_hyphenate)
 *   [Meeting Notes](https://docs.google.com/document/d/1RZ03PWiXsEsX7Py4GB8NtN2kppJFDWgllVIgC8ZBdds/edit)
 *   [Book Scans](https://drive.google.com/drive/folders/1mA2HRgkEM1R1FZCf-fGBxTO2nNrg3uvB)
