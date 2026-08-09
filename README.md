@@ -5,6 +5,9 @@
 *   [Household meeting notes](https://docs.google.com/document/d/1xl-OoeZ9tkZDXEl2tqhDykMXEfa3EOIte3k50NJf9IE/edit#heading=h.vowkzz4jzdye)
 *   [Household expenses](https://docs.google.com/spreadsheets/d/1i_538UEt5PJICNSCPAGQag137TjypBj_n5W2G0Cga_g/edit?gid=623084150#gid=623084150)
 *   [Inspector's report](https://docs.google.com/document/d/1w9Fw_UVCCtQZ5N-Kyzl7HgHX1VN5yPQQ7qPBVcTNmu8/edit)
+
+## Immigration and Refugee resources
+*   [Send money to North Lake](https://www.accesscorrections.com/send-money)
   
 ## Early Music Michigan
 
