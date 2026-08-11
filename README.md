@@ -8,6 +8,9 @@
 
 ## Immigration and Refugee resources
 *   [Send money to North Lake](https://www.accesscorrections.com/send-money)
+*   [Get added to Hope for Neighbors What's App](https://docs.google.com/document/d/1KuCehkDXuEbLGynUmRaf_K-l24H3Gk5bWDv8YNKbzxU/edit?tab=t.0#heading=h.dw2tx09pf9t0)
+*   [HFN Preso on visiting](https://www.canva.com/design/DAHIQnxQRXw/N2ANz7IbN9AWay1qKmvJpg)
+*   [HFN Visiting worksheet](https://docs.google.com/document/d/1KuCehkDXuEbLGynUmRaf_K-l24H3Gk5bWDv8YNKbzxU/edit?tab=t.0#heading=h.dw2tx09pf9t0)
   
 ## Early Music Michigan
 
