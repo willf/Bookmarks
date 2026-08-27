@@ -66,6 +66,7 @@
 
 ## Immigration
 *  [Send money/Vistor check](https://www.accesscorrections.com/send-money)
+*  [Michigan Detention Awareness Project](https://www.michigan-detention-awareness.org)
 
 ## Other projects
 
