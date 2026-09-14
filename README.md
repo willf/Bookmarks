@@ -19,8 +19,8 @@
 * [PayPal Login](https://www.paypal.com/signin)
 * [Early Music Michigan](https://earlymusicmichigan.org/)
     
-## Sacred Harp Text Preparation
-
+## Sacred Harp
+*   [Kalamazoo Singers Spreadsheet](https://docs.google.com/spreadsheets/d/1TZq80-6_0MYmwxZ-flJ8boMd1ko7A0NU94RLCGurbNk/edit?gid=1267773093#gid=1267773093)
 *   [Planning Spreadsheet](https://docs.google.com/spreadsheets/d/1CWdE1qdWaFC9sLVWaUvBrypapqAq656mwIsOhOgdHDA/edit#gid=127818214)
 *   [Proofreading](https://drive.google.com/drive/folders/1N03g4GsB_Q-Wtx9vo-RDNFt-E8dvrM5n)
 *   [Tools and Processes](https://docs.google.com/document/d/1lBohw_ciokF4Bp2qek-TqI05ku4Ls6gGWYwSXc4RhZQ/edit)
@@ -38,6 +38,7 @@
 *   [First Line Index](https://docs.google.com/spreadsheets/d/1tO5co2r-AAIW2KudCDXvGOzIe1pRCvRiXBfnwCsMW54/edit?gid=159786187#gid=159786187)
 *   [Micah's Complete Song Tracker](https://docs.google.com/spreadsheets/d/1cLb7dxYF4W4dXWhqxvQkQVpRbS_HwHbNICAlBBb6knk/edit?gid=0#gid=0)
 *   [Change Tracker for Upcoming Printings](https://docs.google.com/spreadsheets/d/1aFKSGhkR6CzWwkQbQM56jkymezgpLLLHQgyInUyubKg/edit?gid=0#gid=0)
+
 
 ## Greek Resources 
 
