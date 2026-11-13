@@ -87,3 +87,4 @@
 *   [TMUX cheatsheet](https://willf.github.io/snippets/tmux_cheatsheet.html)
 *   [2025 Minutes Template - Make a copy](https://docs.google.com/spreadsheets/d/1cmzOl-ds5CS0I0MwXAwrnqkasOabM9fJOC_jrNIBnC8/copy)
 *   [Michigan Registry Business Queue](https://mibusinessregistry.lara.state.mi.us/queue/business)
+*   [Helder memorial](https://willf.github.io/forhelder_online)
